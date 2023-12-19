@@ -50,11 +50,11 @@ I have, also, included a CV section in my header (though this was beyond the min
 
 ## Usage
 
-To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Week2-Challenge-Portfolio/ 
+To view my work on this challenge, you can review the sections of this repository, and my delpoyed site which is at https://aireytf.github.io/Bootstrap-Portfolio/
 
 ## Credits
 
-I researched some additional styling elements, found on w3schools.com and css-tricks.com, such as border-radius to improve the layout appearance. 
+I drew on the framework of my first portfolio and used BootStrap code templates to (as per instructions for this challenge).
 
 ## License
 
