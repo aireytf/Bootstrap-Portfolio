@@ -63,3 +63,13 @@
     border: 5px solid rgb(74, 65, 132);
     transition: all 0.5s ease-in-out;
 }
+
+/* Styling Skills Section */
+.skills {
+    padding: 70px;
+    background-color: #23325a;
+}
+
+.skills .list-group {
+    border-radius: 10px;
+}
