@@ -83,14 +83,16 @@
 .about-contact .container {
     display: flex;
     flex-direction: row;
-    justify-content: space space-around;
     font-size: 17px;
+}
+
+.contact {
+  min-width: 25%;
 }
 
 .contact a {
     display: flex;
     flex-direction: row;
-    font-size: 15px;
     text-decoration: none;
     color: purple;
 }
