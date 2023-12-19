@@ -45,6 +45,10 @@
     margin-left: auto;
 }
 
+.device-container img {
+    padding: 20px;
+  }
+
 /* Styling Work Section */
 
 .card {
